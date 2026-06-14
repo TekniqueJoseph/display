@@ -23,3 +23,9 @@ li{
     margin: 20px 10px;
     display: inline-block;
 }
+.img1{
+    display: block;
+}
+.div2{
+    display: inline-block;
+}
