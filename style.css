@@ -3,6 +3,13 @@
 }
 
 img{
-    width: 400px;
-    height: 235px;
+    width: 275px;
+    height: 150px;
+}
+
+div{
+    background-color: dodgerblue;
+    width: 275px;
+    height: 125px;
+    border: 1px solid black;
 }
